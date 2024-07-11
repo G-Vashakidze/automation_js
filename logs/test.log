@@ -1,0 +1,18 @@
+[2024-07-11T11:35:31.633] [INFO] default - UC-1: Error message for empty credentials validated
+[2024-07-11T11:35:31.903] [INFO] default - UC-2: Error message for empty password validated
+[2024-07-11T11:35:32.119] [INFO] default - UC-3: Successful login validated
+[2024-07-11T11:35:34.438] [INFO] default - UC-1: Error message for empty credentials validated
+[2024-07-11T11:35:34.853] [INFO] default - UC-2: Error message for empty password validated
+[2024-07-11T11:35:35.282] [INFO] default - UC-3: Successful login validated
+[2024-07-11T11:36:05.694] [INFO] default - UC-1: Error message for empty credentials validated
+[2024-07-11T11:36:05.884] [INFO] default - UC-2: Error message for empty password validated
+[2024-07-11T11:36:06.134] [INFO] default - UC-3: Successful login validated
+[2024-07-11T11:36:08.007] [INFO] default - UC-1: Error message for empty credentials validated
+[2024-07-11T11:36:08.419] [INFO] default - UC-2: Error message for empty password validated
+[2024-07-11T11:36:08.842] [INFO] default - UC-3: Successful login validated
+[2024-07-11T11:40:51.748] [INFO] default - UC-1: Error message for empty credentials validated
+[2024-07-11T11:40:51.979] [INFO] default - UC-2: Error message for empty password validated
+[2024-07-11T11:40:52.209] [INFO] default - UC-3: Successful login validated
+[2024-07-11T11:40:53.888] [INFO] default - UC-1: Error message for empty credentials validated
+[2024-07-11T11:40:54.314] [INFO] default - UC-2: Error message for empty password validated
+[2024-07-11T11:40:54.757] [INFO] default - UC-3: Successful login validated
