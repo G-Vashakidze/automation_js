@@ -1,5 +1,4 @@
 const LoginPage = require('../pageobjects/login.page');
-const DashboardPage = require('../pageobjects/dashboard.page');
 const loginData = require('../data/loginData');
 const logger = require('../utils/logger');
 
@@ -27,7 +26,7 @@ describe('Saucedemo Login', () => {
 
     it('should login with valid credentials (UC-3)', async () => {
         await LoginPage.login(loginData.validCredentials.username, loginData.validCredentials.password);
-        await DashboardPage.validateTitle();
+        await expect(browser).toHaveTitle('Swag Labs');
         logger.info('UC-3: Successful login validated');
     });
 });
